@@ -20,6 +20,7 @@ const newString = gamename.substring(0, 6)
 console.log(newString);
 
 const anotherString = gamename.slice(-8, 4)
+
 console.log(anotherString);
 
 const newStringOne = "    Dhwani   "
@@ -41,8 +42,5 @@ console.log(gamename.split('-'));
 const StringOne = "Dhwani"
 const StringTwo = "Vaanu"
 let StringThree = StringOne.concat(" is sister of ", StringTwo )
-console.log(StringThree);
-
-
-
+//console.log(StringThree);
 
