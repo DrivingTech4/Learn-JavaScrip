@@ -20,6 +20,8 @@ console.log(Math.abs(-5));
 
 //console.log(Math.sqrt(5.6));
 //console.log(Math.min(3,4,5,6));
+
+
 //console.log(Math.max(5,4,6,7));
 console.log(Math.random()*10 +1);
 
